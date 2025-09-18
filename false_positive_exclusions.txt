@@ -1,4 +1,26 @@
-Blogger
-Gravatar
-Itch.io
-xHamster
+APClips
+Coders Rank
+Freelance.habr
+GNOME VCS
+Giphy
+HackerEarth
+Heavy-R
+LessWrong
+LushStories
+Mydramalist
+PepperIT
+PocketStars
+Reddit
+Roblox
+RocketTube
+SlideShare
+SpeakerDeck
+Splice
+Spotify
+Topcoder
+Weblate
+YandexMusic
+kaskus
+opennet
+svidbook
+threads
