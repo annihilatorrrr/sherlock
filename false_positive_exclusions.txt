@@ -1,10 +1,11 @@
 APClips
+Audiojungle
 Coders Rank
 CyberDefenders
-Dribbble
 Freelance.habr
 GNOME VCS
 Giphy
+GitHub
 HackerEarth
 Heavy-R
 LessWrong
@@ -22,5 +23,7 @@ Topcoder
 Weblate
 YandexMusic
 kaskus
+opennet
 svidbook
 threads
+xHamster
