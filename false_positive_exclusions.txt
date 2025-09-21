@@ -1,11 +1,8 @@
 APClips
-Audiojungle
 Coders Rank
 CyberDefenders
-Freelance.habr
 GNOME VCS
 Giphy
-GitHub
 HackerEarth
 Heavy-R
 LessWrong
@@ -16,6 +13,7 @@ PocketStars
 Reddit
 Roblox
 RocketTube
+Slack
 SlideShare
 Splice
 Spotify
@@ -26,4 +24,3 @@ kaskus
 opennet
 svidbook
 threads
-xHamster
