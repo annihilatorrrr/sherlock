@@ -1,11 +1,11 @@
 APClips
+Archive of Our Own
+CGTrader
 Coders Rank
-CyberDefenders
 GNOME VCS
 Giphy
 HackerEarth
 Heavy-R
-Itch.io
 LessWrong
 LushStories
 Mydramalist
@@ -14,14 +14,11 @@ PocketStars
 Reddit
 Roblox
 RocketTube
-SlideShare
 Splice
 Spotify
 Topcoder
 Weblate
 YandexMusic
 kaskus
-opennet
 svidbook
 threads
-xHamster
