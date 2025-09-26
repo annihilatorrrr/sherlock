@@ -1,4 +1,5 @@
 APClips
+Coders Rank
 GNOME VCS
 Giphy
 HackerEarth
@@ -8,12 +9,10 @@ LushStories
 Mydramalist
 PepperIT
 PocketStars
-Rajce.net
 Reddit
 Roblox
 RocketTube
 SlideShare
-SoylentNews
 Splice
 Spotify
 Topcoder
