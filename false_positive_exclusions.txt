@@ -1,24 +1,22 @@
 APClips
-BoardGameGeek
-Coders Rank
+Carbonmade
 DeviantArt
-Freelancer
 GNOME VCS
 Giphy
 HackerEarth
 Heavy-R
-Itch.io
 LushStories
 PepperIT
 PocketStars
 Reddit
 RocketTube
+RuneScape
 Splice
 Spotify
 Topcoder
+TryHackMe
 Weblate
 YandexMusic
 kaskus
 opennet
 svidbook
-xHamster
