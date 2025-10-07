@@ -1,6 +1,6 @@
 APClips
-Carbonmade
-DeviantArt
+Anilist
+Archive of Our Own
 GNOME VCS
 Giphy
 HackerEarth
@@ -10,11 +10,8 @@ PepperIT
 PocketStars
 Reddit
 RocketTube
-RuneScape
 Splice
 Spotify
-Topcoder
-TryHackMe
 Weblate
 YandexMusic
 kaskus
