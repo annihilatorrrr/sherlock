@@ -1,11 +1,14 @@
 APClips
-Coders Rank
+BoardGameGeek
+CGTrader
 DeviantArt
+Dribbble
+Freelancer
 GNOME VCS
 Giphy
 HackerEarth
+HackerRank
 Heavy-R
-LessWrong
 LushStories
 PepperIT
 PocketStars
@@ -13,8 +16,11 @@ Reddit
 RocketTube
 Splice
 Spotify
-Topcoder
+Steam Community (Group)
+Steam Community (User)
 Weblate
 YandexMusic
 kaskus
+opennet
 svidbook
+xHamster
