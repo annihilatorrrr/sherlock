@@ -9,12 +9,11 @@ PepperIT
 PocketStars
 Reddit
 RocketTube
+SpeakerDeck
 Splice
 Spotify
 Topcoder
 Weblate
-Wordnik
 YandexMusic
 opennet
 svidbook
-xHamster
