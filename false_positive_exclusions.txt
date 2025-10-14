@@ -1,16 +1,17 @@
 APClips
+DeviantArt
+GNOME VCS
 Giphy
-Gravatar
-HackerEarth
 Heavy-R
 LessWrong
 LushStories
-PepperIT
 PocketStars
 Reddit
 RocketTube
 Splice
 Spotify
+Topcoder
 Weblate
 YandexMusic
 svidbook
+xHamster
