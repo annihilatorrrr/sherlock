@@ -1,5 +1,5 @@
 APClips
-DeviantArt
+Coders Rank
 GNOME VCS
 Giphy
 Heavy-R
@@ -9,10 +9,8 @@ Reddit
 RocketTube
 Splice
 Spotify
+Strava
 Topcoder
 Weblate
 YandexMusic
-opennet
-programming.dev
 svidbook
-xHamster
