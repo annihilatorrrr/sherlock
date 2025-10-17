@@ -1,16 +1,18 @@
 APClips
-Coders Rank
+BreachSta.rs Forum
+Carbonmade
+Cults3D
 GNOME VCS
 Giphy
-Heavy-R
 LushStories
 PocketStars
 Reddit
 RocketTube
 Splice
 Spotify
-Strava
 Topcoder
 Weblate
 YandexMusic
+opennet
+phpRU
 svidbook
