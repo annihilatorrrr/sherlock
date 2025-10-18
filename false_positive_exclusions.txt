@@ -1,7 +1,6 @@
 APClips
-BreachSta.rs Forum
-Carbonmade
-Cults3D
+Audiojungle
+DeviantArt
 GNOME VCS
 Giphy
 LushStories
@@ -10,9 +9,10 @@ Reddit
 RocketTube
 Splice
 Spotify
+Tiendanube
 Topcoder
 Weblate
 YandexMusic
 opennet
-phpRU
 svidbook
+xHamster
