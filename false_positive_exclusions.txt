@@ -1,5 +1,5 @@
 APClips
-Audiojungle
+Coders Rank
 DeviantArt
 GNOME VCS
 Giphy
@@ -7,12 +7,11 @@ LushStories
 PocketStars
 Reddit
 RocketTube
+Slack
 Splice
 Spotify
-Tiendanube
 Topcoder
 Weblate
 YandexMusic
 opennet
 svidbook
-xHamster
