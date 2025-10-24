@@ -1,14 +1,15 @@
 APClips
-DeviantArt
 GNOME VCS
 Giphy
 PocketStars
+Rajce.net
 Reddit
 RocketTube
 Splice
 Spotify
+Topcoder
 Weblate
+Wordnik
 YandexMusic
 opennet
 svidbook
-xHamster
