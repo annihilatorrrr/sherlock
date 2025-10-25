@@ -1,15 +1,14 @@
 APClips
+Coders Rank
 GNOME VCS
 Giphy
 PocketStars
-Rajce.net
 Reddit
 RocketTube
+Slack
 Splice
 Spotify
-Topcoder
 Weblate
-Wordnik
 YandexMusic
 opennet
 svidbook
