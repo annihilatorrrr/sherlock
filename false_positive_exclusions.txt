@@ -1,7 +1,6 @@
 APClips
 Archive.org
-Audiojungle
-Coders Rank
+DeviantArt
 GNOME VCS
 Giphy
 LushStories
@@ -10,9 +9,10 @@ Reddit
 RocketTube
 Splice
 Spotify
+Trovo
 Weblate
 YandexMusic
+eintracht
 opennet
 phpRU
 svidbook
-xHamster
