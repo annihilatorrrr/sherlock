@@ -1,12 +1,13 @@
 APClips
-Anilist
 Archive.org
+BoardGameGeek
+CGTrader
 Coders Rank
-DEV Community
 DeviantArt
 GNOME VCS
 Giphy
 LushStories
+Minecraft
 PocketStars
 Reddit
 RocketTube
@@ -15,5 +16,6 @@ Spotify
 Trovo
 Weblate
 YandexMusic
+opennet
 phpRU
 svidbook
