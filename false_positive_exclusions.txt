@@ -13,7 +13,6 @@ Spotify
 Trovo
 Weblate
 YandexMusic
-opennet
+forum_guns
 phpRU
 svidbook
-xHamster
