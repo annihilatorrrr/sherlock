@@ -1,16 +1,19 @@
 APClips
 Archive.org
-Blogger
 Coders Rank
 GNOME VCS
+GeeksforGeeks
 Giphy
+Gravatar
 LushStories
 PocketStars
 Reddit
 RocketTube
+SpeakerDeck
 Splice
 Spotify
 Weblate
 YandexMusic
 opennet
 svidbook
+xHamster
