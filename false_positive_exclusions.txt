@@ -1,9 +1,7 @@
 APClips
 Archive.org
-BoardGameGeek
 Code Snippet Wiki
 DeviantArt
-Freelancer
 GNOME VCS
 GeeksforGeeks
 Giphy
@@ -17,5 +15,6 @@ Spotify
 Trovo
 Weblate
 YandexMusic
+opennet
 svidbook
 threads
