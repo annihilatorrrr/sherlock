@@ -1,15 +1,19 @@
 APClips
 Archive.org
+CGTrader
 Code Snippet Wiki
+Coders Rank
 DeviantArt
 GNOME VCS
 GeeksforGeeks
 Giphy
 Hubski
 LushStories
+Minecraft
 PocketStars
 Reddit
 RocketTube
+Slack
 Splice
 Spotify
 Trovo
@@ -17,4 +21,3 @@ Weblate
 YandexMusic
 opennet
 svidbook
-threads
