@@ -1,6 +1,5 @@
 APClips
 Archive.org
-CGTrader
 Code Snippet Wiki
 Coders Rank
 DeviantArt
@@ -10,10 +9,10 @@ Giphy
 Hubski
 LushStories
 Minecraft
+OurDJTalk
 PocketStars
 Reddit
 RocketTube
-Slack
 Splice
 Spotify
 Trovo
