@@ -1,5 +1,6 @@
 APClips
 Archive.org
+BitBucket
 Code Snippet Wiki
 Coders Rank
 DeviantArt
@@ -7,11 +8,11 @@ GNOME VCS
 GeeksforGeeks
 Giphy
 Hubski
-LushStories
 Minecraft
 PocketStars
 Reddit
 RocketTube
+SpeakerDeck
 Splice
 Spotify
 Trovo
@@ -19,4 +20,3 @@ Weblate
 YandexMusic
 opennet
 svidbook
-xHamster
