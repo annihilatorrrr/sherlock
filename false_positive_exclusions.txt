@@ -3,12 +3,11 @@ Archive.org
 Code Snippet Wiki
 Coders Rank
 DeviantArt
-Dribbble
+Eintracht Frankfurt Forum
 Fandom
 GNOME VCS
 GeeksforGeeks
 Giphy
-HackerRank
 Hubski
 LushStories
 Minecraft
@@ -18,6 +17,8 @@ RocketTube
 Splice
 Spotify
 Trovo
+Vero
 Weblate
 YandexMusic
+opennet
 svidbook
