@@ -6,13 +6,12 @@ Fandom
 GNOME VCS
 GeeksforGeeks
 Giphy
-GitHub
 Hubski
 LushStories
+Minecraft
 PocketStars
 Reddit
 RocketTube
-Scribd
 SlideShare
 Splice
 Spotify
@@ -20,3 +19,4 @@ Weblate
 YandexMusic
 opennet
 svidbook
+xHamster
