@@ -1,6 +1,4 @@
 APClips
-Archive.org
-Carbonmade
 Code Snippet Wiki
 Fandom
 GNOME VCS
@@ -11,12 +9,12 @@ LushStories
 PocketStars
 Reddit
 RocketTube
+RuneScape
 Scribd
 SlideShare
 Splice
 Spotify
 Weblate
-YandexMusic
 opennet
+phpRU
 svidbook
-xHamster
