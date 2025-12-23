@@ -2,12 +2,14 @@ APClips
 Archive.org
 Code Snippet Wiki
 DeviantArt
+Eintracht Frankfurt Forum
 Fandom
 GNOME VCS
 GeeksforGeeks
 Giphy
 Hubski
 LushStories
+Minecraft
 PocketStars
 Reddit
 RocketTube
@@ -21,3 +23,4 @@ YandexMusic
 opennet
 phpRU
 svidbook
+threads
