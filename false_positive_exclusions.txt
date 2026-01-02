@@ -6,9 +6,9 @@ Fandom
 GNOME VCS
 GeeksforGeeks
 Giphy
+Gravatar
 Hubski
 LushStories
-Minecraft
 PocketStars
 Reddit
 RocketTube
@@ -20,6 +20,6 @@ Trovo
 Weblate
 YandexMusic
 mercadolivre
+opennet
 phpRU
 svidbook
-threads
