@@ -7,7 +7,7 @@ GeeksforGeeks
 Giphy
 Hubski
 LushStories
-OurDJTalk
+Minecraft
 PocketStars
 Realmeye
 Reddit
@@ -19,6 +19,6 @@ Spotify
 Weblate
 YandexMusic
 mercadolivre
-opennet
 phpRU
 svidbook
+xHamster
