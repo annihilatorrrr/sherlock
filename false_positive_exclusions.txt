@@ -1,12 +1,12 @@
 APClips
 Archive.org
-Carbonmade
 Code Snippet Wiki
 Fandom
 GNOME VCS
 GeeksforGeeks
 Giphy
 Hubski
+LiveJournal
 LushStories
 Minecraft
 PocketStars
@@ -21,6 +21,5 @@ Spotify
 Weblate
 YandexMusic
 mercadolivre
-opennet
 phpRU
 svidbook
