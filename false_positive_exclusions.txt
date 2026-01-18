@@ -3,6 +3,7 @@ Archive.org
 Code Snippet Wiki
 DeviantArt
 Fandom
+Flipboard
 GNOME VCS
 GeeksforGeeks
 Giphy
@@ -25,3 +26,4 @@ mercadolivre
 opennet
 phpRU
 svidbook
+xHamster
