@@ -1,20 +1,18 @@
 APClips
 Archive.org
 Code Snippet Wiki
-Eintracht Frankfurt Forum
 Fandom
 GNOME VCS
 GeeksforGeeks
 Giphy
 Hubski
-LemmyWorld
 LushStories
-Minecraft
 PocketStars
 Realmeye
 Reddit
 RocketTube
 Scribd
+Slack
 SlideShare
 Smule
 Splice
@@ -25,4 +23,3 @@ mercadolivre
 opennet
 phpRU
 svidbook
-xHamster
