@@ -17,8 +17,8 @@ SlideShare
 Smule
 Splice
 Spotify
+TryHackMe
 Weblate
-YandexMusic
 mercadolivre
 opennet
 phpRU
