@@ -1,7 +1,8 @@
 APClips
+Archive of Our Own
 Archive.org
-Carbonmade
 Code Snippet Wiki
+Cults3D
 DeviantArt
 Fandom
 GNOME VCS
@@ -22,7 +23,8 @@ Trovo
 TryHackMe
 Weblate
 YandexMusic
+eintracht
 mercadolivre
-opennet
 phpRU
 svidbook
+xHamster
