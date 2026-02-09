@@ -1,8 +1,6 @@
 APClips
-Archive of Our Own
 Archive.org
 Code Snippet Wiki
-Cults3D
 DeviantArt
 Fandom
 GNOME VCS
@@ -19,12 +17,10 @@ SlideShare
 Smule
 Splice
 Spotify
-Trovo
 TryHackMe
 Weblate
 YandexMusic
-eintracht
 mercadolivre
+opennet
 phpRU
 svidbook
-xHamster
