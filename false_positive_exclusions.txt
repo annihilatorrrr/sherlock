@@ -2,12 +2,13 @@ APClips
 Archive.org
 Code Snippet Wiki
 DeviantArt
+Eintracht Frankfurt Forum
 Fandom
 GNOME VCS
 GeeksforGeeks
 Giphy
 Hubski
-Minecraft
+LessWrong
 PocketStars
 Realmeye
 Reddit
@@ -17,11 +18,12 @@ SlideShare
 Smule
 Splice
 Spotify
+Strava
 Trovo
 TryHackMe
 Weblate
+YandexMusic
 mercadolivre
 opennet
 phpRU
 svidbook
-xHamster
