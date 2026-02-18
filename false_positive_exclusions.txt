@@ -6,7 +6,6 @@ GeeksforGeeks
 Giphy
 Hubski
 LessWrong
-LushStories
 PocketStars
 Realmeye
 Reddit
@@ -20,6 +19,5 @@ TryHackMe
 Weblate
 YandexMusic
 mercadolivre
-opennet
 phpRU
 svidbook
