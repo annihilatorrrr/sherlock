@@ -1,6 +1,7 @@
 APClips
 Archive.org
-DeviantArt
+Discord
+Flipboard
 GNOME VCS
 GeeksforGeeks
 Giphy
@@ -19,10 +20,11 @@ SlideShare
 Smule
 Splice
 Spotify
-Trovo
 TryHackMe
 Weblate
+Wordnik
 YandexMusic
+eintracht
 mercadolivre
 opennet
 phpRU
