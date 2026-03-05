@@ -1,8 +1,6 @@
 APClips
 Archive.org
 Codolio
-DeviantArt
-Eintracht Frankfurt Forum
 GNOME VCS
 GeeksforGeeks
 Giphy
@@ -21,11 +19,9 @@ SlideShare
 Smule
 Splice
 Spotify
-Trovo
 TryHackMe
 Weblate
 YandexMusic
 mercadolivre
-minds
 phpRU
 svidbook
