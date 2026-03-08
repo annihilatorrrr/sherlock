@@ -1,6 +1,5 @@
 APClips
 Archive.org
-Blogger
 Codolio
 DeviantArt
 GNOME VCS
