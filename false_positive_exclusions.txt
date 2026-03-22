@@ -1,6 +1,5 @@
 APClips
 Archive.org
-BoardGameGeek
 Codolio
 DeviantArt
 GeeksforGeeks
@@ -8,7 +7,6 @@ Giphy
 Hashnode
 Hubski
 LessWrong
-LushStories
 Patched
 PocketStars
 Pornhub
@@ -18,6 +16,7 @@ Reddit
 RocketTube
 Scribd
 Shelf
+Slack
 SlideShare
 Smule
 Splice
@@ -27,7 +26,6 @@ TryHackMe
 Weblate
 YandexMusic
 mercadolivre
-opennet
 phpRU
 svidbook
 xHamster
