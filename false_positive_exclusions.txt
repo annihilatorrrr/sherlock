@@ -2,7 +2,6 @@
 APClips
 Archive.org
 Bandcamp
-Carbonmade
 Codolio
 Discord.bio
 GeeksforGeeks
@@ -11,7 +10,6 @@ Hashnode
 Hubski
 LessWrong
 LushStories
-Minecraft
 Patched
 PocketStars
 Rarible
@@ -20,12 +18,13 @@ Reddit
 RocketTube
 Scribd
 Shelf
+Slack
 SlideShare
 Smule
 Splice
 Spotify
+Strava
 TryHackMe
-Velomania
 Weblate
 YandexMusic
 interpals
