@@ -6,13 +6,14 @@ Bandcamp
 Codolio
 DeviantArt
 Discord.bio
+Dribbble
 GeeksforGeeks
 Giphy
 Hashnode
 Hubski
-LessWrong
-Minecraft
+LushStories
 Patched
+Pornhub
 Rarible
 Realmeye
 Reddit
@@ -25,8 +26,8 @@ Splice
 Spotify
 Trovo
 TryHackMe
-Velomania
 Weblate
+Wordnik
 YandexMusic
 dailykos
 interpals
@@ -34,3 +35,4 @@ mercadolivre
 opennet
 phpRU
 svidbook
+xHamster
