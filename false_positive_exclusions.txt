@@ -5,21 +5,18 @@ Apple Discussions
 Archive.org
 Bandcamp
 Codolio
-Cults3D
 DeviantArt
 Discord.bio
-Fosstodon
 GeeksforGeeks
 Giphy
+HackerRank
 Hashnode
 Hubski
 LessWrong
 LushStories
 Minecraft
-OurDJTalk
 Patched
 Pornhub
-Python.org Discussions
 Rarible
 Realmeye
 Reddit
@@ -41,3 +38,4 @@ mercadolivre
 opennet
 phpRU
 svidbook
+xHamster
