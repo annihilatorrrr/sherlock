@@ -1,5 +1,4 @@
 7Cups
-APClips
 Airliners
 Apple Discussions
 Archive.org
@@ -11,6 +10,8 @@ Envato Forum
 Giphy
 Hashnode
 Hubski
+LessWrong
+Minecraft
 Motherless
 Patched
 Rarible
@@ -28,6 +29,7 @@ TryHackMe
 Velomania
 Weblate
 YandexMusic
+authorSTREAM
 dailykos
 igromania
 interpals
@@ -35,4 +37,3 @@ mercadolivre
 opennet
 phpRU
 svidbook
-xHamster
