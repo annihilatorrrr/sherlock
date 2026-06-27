@@ -15,6 +15,7 @@ Houzz
 Hubski
 LessWrong
 Odysee
+Patched
 Rarible
 Realmeye
 Reddit
@@ -22,7 +23,6 @@ Replit.com
 RocketTube
 Scribd
 Shelf
-Slack
 SlideShare
 Splice
 Spotify
