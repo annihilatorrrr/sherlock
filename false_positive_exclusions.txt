@@ -4,12 +4,15 @@ Apple Developer
 Apple Discussions
 Archive.org
 Bandcamp
+BreachSta.rs Forum
 Codolio
-Cults3D
+DEV Community
+DeviantArt
 Discord.bio
 Envato Forum
 GeeksforGeeks
 Giphy
+Gravatar
 Hashnode
 Houzz
 Hubski
@@ -27,6 +30,7 @@ Shelf
 SlideShare
 Splice
 Spotify
+Trovo
 TryHackMe
 Velomania
 Weblate
