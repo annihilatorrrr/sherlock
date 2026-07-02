@@ -6,17 +6,16 @@ Archive.org
 Bandcamp
 BreachSta.rs Forum
 Codolio
-DEV Community
 DeviantArt
 Discord.bio
 Envato Forum
 GeeksforGeeks
 Giphy
-Gravatar
 Hashnode
 Houzz
 Hubski
 LessWrong
+LiveJournal
 Odysee
 PCGamer
 Patched
@@ -37,6 +36,7 @@ Weblate
 YandexMusic
 authorSTREAM
 dailykos
+fixya
 igromania
 interpals
 mercadolivre
