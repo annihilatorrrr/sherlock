@@ -5,8 +5,8 @@ Apple Discussions
 Archive.org
 Bandcamp
 BreachSta.rs Forum
+CGTrader
 Codolio
-DeviantArt
 Discord.bio
 Envato Forum
 GeeksforGeeks
@@ -15,7 +15,6 @@ Hashnode
 Houzz
 Hubski
 LessWrong
-LiveJournal
 Odysee
 PCGamer
 Patched
@@ -29,7 +28,6 @@ Shelf
 SlideShare
 Splice
 Spotify
-Trovo
 TryHackMe
 Velomania
 Weblate
@@ -40,6 +38,7 @@ fixya
 igromania
 interpals
 mercadolivre
+minds
 opennet
 phpRU
 svidbook
