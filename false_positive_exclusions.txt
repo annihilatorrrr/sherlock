@@ -1,11 +1,11 @@
 7Cups
+APClips
 Airliners
 Apple Developer
 Apple Discussions
-Archive.org
+Archive of Our Own
 Bandcamp
 BreachSta.rs Forum
-Carbonmade
 Codolio
 DeviantArt
 Discord.bio
@@ -14,8 +14,8 @@ GeeksforGeeks
 Giphy
 Hashnode
 Hubski
-Itch.io
 LessWrong
+Minecraft
 Odysee
 PCGamer
 Patched
@@ -42,3 +42,4 @@ mercadolivre
 opennet
 phpRU
 svidbook
+xHamster
