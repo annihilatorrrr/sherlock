@@ -16,7 +16,6 @@ Hubski
 LessWrong
 Odysee
 PCGamer
-Patched
 Pornhub
 Rarible
 Realmeye
@@ -30,7 +29,6 @@ Splice
 Spotify
 Trovo
 TryHackMe
-Velomania
 Weblate
 YandexMusic
 authorSTREAM
@@ -41,3 +39,4 @@ mercadolivre
 opennet
 phpRU
 svidbook
+xHamster
