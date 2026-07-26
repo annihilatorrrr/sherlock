@@ -1,9 +1,11 @@
 7Cups
+APClips
 Airliners
 Apple Developer
 Apple Discussions
 Archive.org
 Bandcamp
+Blogger
 Codolio
 DeviantArt
 Discord.bio
@@ -15,6 +17,7 @@ Hubski
 LessWrong
 Minecraft
 Odysee
+OurDJTalk
 PCGamer
 Patched
 Rarible
@@ -30,7 +33,6 @@ Spotify
 Trakt
 Trovo
 TryHackMe
-Velomania
 Weblate
 YandexMusic
 authorSTREAM
@@ -41,3 +43,4 @@ mercadolivre
 opennet
 phpRU
 svidbook
+xHamster
