@@ -13,9 +13,9 @@ F3.cool
 GeeksforGeeks
 Giphy
 Hashnode
+Houzz
 Hubski
 Instapaper
-Itch.io
 LessWrong
 Odysee
 PCGamer
@@ -30,10 +30,8 @@ Shelf
 SlideShare
 Splice
 Spotify
-Trakt
 Trovo
 TryHackMe
-Velomania
 Weblate
 YandexMusic
 authorSTREAM
