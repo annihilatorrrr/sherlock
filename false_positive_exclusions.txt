@@ -19,7 +19,6 @@ Hubski
 Instapaper
 Minecraft
 Odysee
-OurDJTalk
 PCGamer
 Patched
 Pornhub
@@ -41,10 +40,10 @@ Weblate
 YandexMusic
 authorSTREAM
 dailykos
+dcinside
 igromania
 interpals
 mercadolivre
 opennet
 phpRU
 svidbook
-xHamster
