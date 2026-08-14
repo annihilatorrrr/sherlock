@@ -2,6 +2,7 @@
 Airliners
 Apple Developer
 Apple Discussions
+Archive of Our Own
 Archive.org
 Bandcamp
 Blogger
@@ -13,6 +14,8 @@ Envato Forum
 F3.cool
 GeeksforGeeks
 Giphy
+HackenProof (Hackers)
+HackerOne
 Hashnode
 Houzz
 Hubski
@@ -32,6 +35,7 @@ Shelf
 SlideShare
 Splice
 Spotify
+Trakt
 Trovo
 TryHackMe
 Velomania
