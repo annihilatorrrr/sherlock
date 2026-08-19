@@ -1,4 +1,5 @@
 7Cups
+APClips
 Airliners
 Apple Developer
 Apple Discussions
@@ -16,8 +17,6 @@ Hashnode
 Houzz
 Hubski
 Instapaper
-Mamot
-Minecraft
 Odysee
 PCGamer
 Patched
@@ -33,8 +32,10 @@ Shelf
 SlideShare
 Splice
 Spotify
+Trakt
 Trovo
 TryHackMe
+Velomania
 Weblate
 YandexMusic
 authorSTREAM
