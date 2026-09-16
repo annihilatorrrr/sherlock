@@ -4,7 +4,7 @@ Apple Developer
 Apple Discussions
 Archive.org
 Bandcamp
-Blogger
+CGTrader
 Carbonmade
 Championat
 Chatujme.cz
@@ -18,6 +18,8 @@ Hashnode
 Houzz
 Hubski
 Instapaper
+Itch.io
+Lobsters
 ObservableHQ
 Odysee
 PCGamer
