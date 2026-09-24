@@ -5,25 +5,23 @@ Apple Developer
 Apple Discussions
 Archive.org
 Bandcamp
+Blogger
 CGTrader
 Championat
 Chatujme.cz
 ChaturBate
 Codolio
-Cults3D
 DeviantArt
 Discord.bio
 Envato Forum
-Flipboard
-Forum Ophilia
 GeeksforGeeks
 Giphy
+HackenProof (Hackers)
 Hashnode
 Houzz
 Hubski
 Instapaper
 Linktree
-Minecraft
 ObservableHQ
 Odysee
 PCGamer
@@ -55,4 +53,3 @@ opennet
 phpRU
 social.tchncs.de
 svidbook
-xHamster
