@@ -1,5 +1,4 @@
 7Cups
-APClips
 Airliners
 Apple Developer
 Apple Discussions
@@ -23,7 +22,6 @@ Hubski
 Instapaper
 Linktree
 ObservableHQ
-Odysee
 PCGamer
 Pornhub
 Rarible
@@ -36,8 +34,6 @@ Shelf
 SlideShare
 Splice
 Spotify
-Trakt
-Trovo
 TryHackMe
 Velomania
 Weblate
