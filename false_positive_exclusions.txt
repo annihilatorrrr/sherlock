@@ -4,7 +4,6 @@ Apple Developer
 Apple Discussions
 Archive.org
 Bandcamp
-Blipfoto
 CGTrader
 Championat
 Chatujme.cz
@@ -22,6 +21,8 @@ Hubski
 Instapaper
 Linktree
 Minecraft
+NationStates Nation
+NationStates Region
 ObservableHQ
 Odysee
 PCGamer
@@ -35,7 +36,6 @@ Shelf
 SlideShare
 Splice
 Spotify
-TikTok
 Trakt
 TryHackMe
 Velomania
@@ -44,7 +44,6 @@ YandexMusic
 authorSTREAM
 dailykos
 fixya
-furaffinity
 hunting
 interpals
 mercadolivre
