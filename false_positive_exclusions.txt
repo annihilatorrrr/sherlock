@@ -1,8 +1,10 @@
+APClips
 Airliners
 Apple Developer
 Apple Discussions
 Archive.org
 Blogger
+BoardGameGeek
 Chatujme.cz
 Codolio
 DeviantArt
@@ -13,8 +15,6 @@ HackerNews
 Hashnode
 Hubski
 Instapaper
-Itch.io
-LibraryThing
 Linktree
 ObservableHQ
 Odysee
