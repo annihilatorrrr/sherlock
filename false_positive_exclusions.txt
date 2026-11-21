@@ -4,8 +4,8 @@ Apple Developer
 Apple Discussions
 Archive.org
 Blogger
-BoardGameGeek
 Chatujme.cz
+Chess
 Codolio
 DeviantArt
 Discord.bio
@@ -44,3 +44,4 @@ mercadolivre
 opennet
 phpRU
 social.tchncs.de
+xHamster
